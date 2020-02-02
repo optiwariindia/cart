@@ -1,0 +1,15 @@
+{
+    "name": "optiwariindia/cart",
+    "description": "A shopping cart based on session variable that can be connected with any e commerce application easily",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Om Prakash Tiwari",
+        "email": "optiwari.india@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "optiwariindia\\": "src/"
+        }
+    }
+}
